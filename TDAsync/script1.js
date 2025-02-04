@@ -1,0 +1,1 @@
+console.log("Fichier TDAsync/script1.js chargé");
